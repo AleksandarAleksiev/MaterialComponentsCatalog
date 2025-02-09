@@ -61,6 +61,8 @@ kotlin {
             implementation(libs.koin.compose.viewmodel)
             implementation(libs.compose.navigation)
             implementation(libs.compose.colorpicker)
+
+            implementation(libs.kotlinx.collections.immutable)
         }
     }
 }
