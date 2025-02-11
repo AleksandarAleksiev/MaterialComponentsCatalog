@@ -21,7 +21,7 @@ import com.aaleksiev.compose.material.components.di.koinConfig
 import com.aaleksiev.compose.material.components.theme.AppTheme
 import com.aaleksiev.compose.material.components.ui.MaterialComponentsViewModel
 import com.aaleksiev.compose.material.components.ui.components.ComponentDetails
-import com.aaleksiev.compose.material.components.ui.components.buttons.Buttons
+import com.aaleksiev.compose.material.components.ui.components.textfields.TextInputs
 import kotlinx.serialization.Serializable
 import org.koin.compose.KoinApplication
 import org.koin.compose.viewmodel.koinViewModel
@@ -67,7 +67,7 @@ fun App() {
                         modifier = Modifier
                             .fillMaxSize()
                             .padding(innerPadding),
-                        items = Buttons()
+                        items = TextInputs()
                     )
                 }
             }

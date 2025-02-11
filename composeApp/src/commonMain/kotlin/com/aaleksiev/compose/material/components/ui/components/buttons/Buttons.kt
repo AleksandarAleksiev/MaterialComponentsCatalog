@@ -14,7 +14,7 @@ import com.aaleksiev.compose.material.components.ui.model.Component
 import com.aaleksiev.compose.material.components.ui.model.ComponentItem
 import kotlinx.collections.immutable.persistentListOf
 
-data object Buttons : Component {
+internal data object Buttons : Component {
     override operator fun invoke() = persistentListOf(
         ComponentItem(
             name = "Filled Button",
