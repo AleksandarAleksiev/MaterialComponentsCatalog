@@ -4,7 +4,7 @@ import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 
 internal data class MaterialComponentsUiState(
-    val surfaceElevation: Dp = 5.dp
+    val surfaceElevation: Dp = 4.dp
 )
 
 internal sealed interface UserAction {
