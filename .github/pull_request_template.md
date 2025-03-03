@@ -30,16 +30,16 @@ Fixes # ## Changes Made
 
 ## Checklist
 
--   [ ] I have tested these changes thoroughly.
--   [ ] My code follows the project's coding style guidelines.
--   [ ] I have added/updated unit tests where applicable.
--   [ ] I have added/updated UI tests where applicable.
--   [ ] I have updated any relevant documentation (e.g., README, comments).
--   [ ] I have rebased my branch onto the latest `main`/`develop` branch.
--   [ ] I have squashed any unnecessary commits.
--   [ ] I have added reviewers to this PR.
--   [ ] I have assigned this PR to myself (or the appropriate assignee).
--   [ ] I have added appropriate labels to this PR (e.g., "bug", "feature", "enhancement").
--   [ ] I have linked this PR to any related issues or pull requests.
+- [ ] I have tested these changes thoroughly.
+- [ ] My code follows the project's coding style guidelines.
+- [ ] I have added/updated unit tests where applicable.
+- [ ] I have added/updated UI tests where applicable.
+- [ ] I have updated any relevant documentation (e.g., README, comments).
+- [ ] I have rebased my branch onto the latest `main`/`develop` branch.
+- [ ] I have squashed any unnecessary commits.
+- [ ] I have added reviewers to this PR.
+- [ ] I have assigned this PR to myself (or the appropriate assignee).
+- [ ] I have added appropriate labels to this PR (e.g., "bug", "feature", "enhancement").
+- [ ] I have linked this PR to any related issues or pull requests.
 
 ## Additional Notes (optional)
